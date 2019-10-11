@@ -1,0 +1,12 @@
+:insert
+/*
+ *File name:
+ *Author:Kgod
+ *Email:17621512033@163.com
+ *Homepage:https://aaakgold.github.io
+ *Create Date:
+ *Last Modified:
+ *Description:
+ */
+#include<stdio.h>
+.
